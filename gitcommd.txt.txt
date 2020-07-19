@@ -1,0 +1,18 @@
+GIT COMMANDS:
+------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+To Push code:
+Step 1.) git status // to check the status
+Step 2.)git init // to initialize.
+Step 3.)git add . // stage all the files from working area to stage area.
+Step 4.)git commit -m "Message"// to commit
+Step 5.)git push -u origin master / to push on github.
+------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+To Pull:
+# git pull origin master
+------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+#Others Command:
+----------------
+
+#git log// to see who had done commit (like other developer).
+#git remote add origin link(<- link of your repository)(eg git remote add origin https://github.com/SuabshPandey/GitTut.git)
+----------------------------------------------------
